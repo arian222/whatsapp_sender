@@ -26,7 +26,7 @@ O aplicație desktop pentru automatizarea trimiterii de mesaje WhatsApp, cu inte
 
 1. Clonați repository-ul:
 ```bash
-git clone https://github.com/yourusername/alecs-whatsapp-pro.git
+git clone https://github.com/arian222/alecs-whatsapp-pro.git
 cd alecs-whatsapp-pro
 ```
 
@@ -75,6 +75,6 @@ Distribuit sub licența MIT. Vezi `LICENSE` pentru mai multe informații.
 
 ## Contact
 
-Numele Dvs. - [@twitter_handle](https://twitter.com/twitter_handle)
+Numele Dvs. - https://wa.me/40732159658?text=Salut!%20Cum%20te%20pot%20ajuta?
 
-Link proiect: [https://github.com/yourusername/alecs-whatsapp-pro](https://github.com/yourusername/alecs-whatsapp-pro)
+Link proiect: [https://github.com/arian222/alecs-whatsapp-pro](https://github.com/arian222/alecs-whatsapp-pro)
